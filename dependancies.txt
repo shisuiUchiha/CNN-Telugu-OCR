@@ -1,0 +1,6 @@
+Keras         
+scikit-learn
+numpy
+scipy
+pillow
+scikit-image
